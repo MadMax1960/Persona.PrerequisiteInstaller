@@ -53,8 +53,8 @@ class Installer:
 
 # web_installers array
 web_installers = [
-    Installer('Visual C++ x64 Redistributable', 'https://aka.ms/vs/17/release/vc_redist.x64.exe', '5935b69f5138ac3fbc33813c74da853269ba079f910936aefa95e230c6092b92f6225bffb594e5dd35ff29bf260e4b35f91adede90fdf5f062030d8666fd0104'),
-    Installer('Visual C++ x86 Redistributable', 'https://aka.ms/vs/17/release/vc_redist.x86.exe', '91a6283f774f9e2338b65aa835156854e9e76aed32f821b13cfd070dd6c87e1542ce2d5845beb5e4af1ddb102314bb6e0ad6214d896bb3e387590a01eae0c182'),
-    Installer('.NET 8.0 x64 Desktop Runtime',   'https://download.visualstudio.microsoft.com/download/pr/907765b0-2bf8-494e-93aa-5ef9553c5d68/a9308dc010617e6716c0e6abd53b05ce/windowsdesktop-runtime-8.0.8-win-x64.exe', '27484ffb1e9ce5e6290cda8f5f49563cf4a9e2692aa57429fcd0d3de4f30fc2fce204b1b120349ed50712e95d3fa51037ebaf9b7fd60c41856857b1372e0eac7'),
-    Installer('.NET 8.0 x86 Desktop Runtime',   'https://download.visualstudio.microsoft.com/download/pr/bd1c2e28-44dd-47bb-a55c-aedd1f3e8cc4/0a15fac821e64cf7b8ec6d99e54e0997/windowsdesktop-runtime-8.0.8-win-x86.exe', '3101e64ab772cef8081ca5f441f599d1906c9a3869e7ff20ee1725e121a54dd0569e55dfd842e748a0dd6bff902562834922681c9bb43ede6760aed1206c7966')
+    Installer('Visual C++ x64 Redistributable', 'https://aka.ms/vs/17/release/vc_redist.x64.exe', '4db5078fdd9eb9ce00a1b6195a67c779a1d3c719de0fbd4729adbdac2d8ca442cf4e0a31aa40d213f29617ec073f1a7e42570dcc2f931eb9534c45f1ec6de253'),
+    Installer('Visual C++ x86 Redistributable', 'https://aka.ms/vs/17/release/vc_redist.x86.exe', '8a0991b993d5206450228454b4f83251cc311cc2b0dd105494928e03bf2e865de8ccf9676c8e7453164bb1805929a3a9616ea020524b77dbc0a6bbca0d222daf'),
+    Installer('.NET 9.0 x64 Desktop Runtime',   'https://download.visualstudio.microsoft.com/download/pr/084bfbb9-6197-49d9-ae9c-ad3825534f37/e1a071d344c9b24849f8034f7ce72aa6/dotnet-sdk-9.0.100-rc.2.24474.11-win-x64.exe', '29091a2b4d08f7fdc77065f2805a82afae0129a6b886caec71124016843a29c6abcec828794aef1c9a73a84df3f7b7258863991f61a780ea362575da0ca6879b'),
+    Installer('.NET 9.0 x86 Desktop Runtime',   'https://download.visualstudio.microsoft.com/download/pr/d052307a-2d94-4192-935c-b6586e7077d2/3e3dfc72d4bf97bf2d6281ef250114d2/dotnet-sdk-9.0.100-rc.2.24474.11-win-x86.exe', '42622d7145da2cd246c4490213ba0fd9e9a8c4f567a0f6b940f24029a6f342264be6b3f65ea79b46ee4048a7d74201d25ba98402ce4c245f82ee318f5442af1c')
 ]
