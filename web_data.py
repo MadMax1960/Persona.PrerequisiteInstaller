@@ -53,8 +53,8 @@ class Installer:
 
 # web_installers array
 web_installers = [
-    Installer('Visual C++ x64 Redistributable', 'https://aka.ms/vs/17/release/vc_redist.x64.exe', 'c021453f6dbc8e79c5b97ca1f5d717868e9124e503391cc133a76f10643e2b41043e47d98836f524938d581c610d5f887c710cd5e6c036dc8f868074e3759c8f'),
-    Installer('Visual C++ x86 Redistributable', 'https://aka.ms/vs/17/release/vc_redist.x86.exe', '32cc452ba3e0eaa66cb1fef379f5f15fbd5d3d632dd7ef5a7259a641eb77b62096cb665faa3737a7a57798ca7aef4a9d859bd21d5fe036e1d7d2871834e0349b'),
+    Installer('Visual C++ x64 Redistributable', 'https://aka.ms/vs/17/release/vc_redist.x64.exe', '610631f92193015d32d572a8bcd18792ec7fd898f28bd4f69e7708d0989ab51fbaa0eb306d40ef5cbeaa2242bfba4639c8881ad09697fc5e8117f5b856602bb9'),
+    Installer('Visual C++ x86 Redistributable', 'https://aka.ms/vs/17/release/vc_redist.x86.exe', '369d9999a5a1237fd9dda89335ccd7837938e2e76d7a6b9bf0a91dd4002a82eaee952812840f86c5f00ce5bdb481cce1aae1cb5b8ae14a30c0e4eb65c020a38f'),
     Installer('.NET 9.0 x64 Desktop Runtime',   'https://download.visualstudio.microsoft.com/download/pr/685792b6-4827-4dca-a971-bce5d7905170/1bf61b02151bc56e763dc711e45f0e1e/windowsdesktop-runtime-9.0.0-win-x64.exe', 'e48e015327598623cac9081a556f76f4d4d74c33e35a7cecbd2989a5b2bcb6575017e922883fc841e10efdec3d9577a47ed2b036b7f431d8f8442bb1066e72ac'),
     Installer('.NET 9.0 x86 Desktop Runtime',   'https://download.visualstudio.microsoft.com/download/pr/8dfbde7b-c316-418d-934a-d3246253f342/69c6a35b77a4f01b95588e1df2bddf9a/windowsdesktop-runtime-9.0.0-win-x86.exe', 'f597d55205b776391ac1aeb56c40abf5274e6473193c4e6c48982582c135db199d8e75adba87bdacca8981752f04f596105548ab9cc267139e681c7858890543')
 ]
